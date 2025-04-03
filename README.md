@@ -1,4 +1,4 @@
-# A-Path-Planning
+# A-Star-Path-Planning
 
 This project implements the **A\* (A-Star) path planning algorithm** for navigating a grid-based map.
 
